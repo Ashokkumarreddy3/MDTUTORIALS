@@ -6,3 +6,4 @@ I really like using Markdown.
 <p>This is the first line.<br>
 And this is the second line.</p>
 I just love __bold text__.
+I just love **bold text**.
