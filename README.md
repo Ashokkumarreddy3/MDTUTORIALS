@@ -14,4 +14,4 @@ I just love <strong>bold text</strong>.
 >
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
-![screen short](Screenshot(38))
+![screen short](https://github.com/Ashokkumarreddy3/MDTUTORIALS/blob/main/Screenshot%20(38).png)
